@@ -9,7 +9,7 @@ To run it, the computer needs to have the same version of the following packages
   pytorch 1.8
   torchtext 0.9
   cuda 11.1 
-For the other package, the verision would not be important
+For the following packages, the version would not be important
   Numpy
   pandas
   ipykernal
